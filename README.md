@@ -3,7 +3,7 @@ This repository presents the code associated with an article entitled "GTFLAT: G
 
 1- https://github.com/zhuangdizhu/FedGen
 
-2- https://github.com/anjalika-nande/dynamics sim.
+2- https://github.com/anjalika-nande/dynamics_sim.
 
 You can read more from https://arxiv.org/pdf/2212.04103.pdf.
 
